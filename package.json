@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "three": "^0.163.0"
+  },
+  "name": "mp5---block-game",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {
+    "vite": "^5.2.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
